@@ -1,0 +1,107 @@
+﻿@*@model IEnumerable<Frequency.Edu.Models.Course>*@
+
+@model PagedList.IPagedList<Frequency.Edu.Models.Course>
+@using PagedList.Mvc;
+
+<div style="background-image: url('../../Content/Images/bk5.jpg'); height: 600px; background-size: cover; margin-top: -20px; width: 120%; margin-left: -120px;">
+    <div style="margin-left:100px;">
+        <br /><br /><br />
+
+        @{
+            ViewBag.Title = "Index";
+        }
+
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/MyStyle.css" rel="stylesheet" />
+        <h2>Index</h2>
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+
+        @using (@Html.BeginForm())
+        {
+            <p>
+                Search by Course Name:@Html.TextBox("searchstring");
+                <input type="submit" value="search" />
+            </p>
+        }
+
+
+        <div class="table-responsive table-bordered table-hover table-striped" style="width:70%;">
+
+            <table class="table table-bordered table-hover table-striped">
+                <tr>
+                    @*<th>
+                        Project_Name
+                    </th>*@
+
+                    <th>
+                        @Html.ActionLink("Course Name", "Index", new { sortOrder = ViewBag.NameSortParam })
+                    </th>
+
+                    @*<th>
+                        Course Name
+                    </th>*@
+                    <th>
+                        Course Fees
+                    </th>
+                    <th>
+                        Schedules
+                    </th>
+                    <th>
+                        Course Duration
+                    </th>
+                    <th>
+                        Exam Details
+                    </th>
+                    <th>
+                        Trainer Name
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseFees)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Schedule)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseDuration)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ExamDetail.ExamName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Trainer.TrainerName)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.CourseID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.CourseID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.CourseID })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+
+            <br />
+            Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+            @Html.PagedListPager(Model, Page => Url.Action("Index",
+    new { Page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }
+    ))
+
+
+
+        </div>
+
+    </div>
+       
+</div>

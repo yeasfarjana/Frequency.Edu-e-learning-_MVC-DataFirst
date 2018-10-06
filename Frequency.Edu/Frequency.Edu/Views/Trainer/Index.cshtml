@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Frequency.Edu.Models.Trainer>
+
+<div style="background-image: url('../../Content/Images/bk8.jpg'); height: 600px; background-size: cover; margin-top: -20px; width: 120%; margin-left: -120px;">
+    <div style="margin-left:100px;">
+        <br /><br /><br />
+
+        @{
+            ViewBag.Title = "Index";
+        }
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/MyStyle.css" rel="stylesheet" />
+        <h2>Index</h2>
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TrainerName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Gender)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mobile)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TrainerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mobile)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.TrainerID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.TrainerID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.TrainerID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+
+</div>

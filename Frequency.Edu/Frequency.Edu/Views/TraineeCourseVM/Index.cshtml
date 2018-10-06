@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Frequency.Edu.ViewModels.TraineesCourseInformationVM>
+
+<div style="background-image: url('../../Content/Images/bk6.jpg');  height: 600px; background-size: cover; margin-top: -20px; width: 120%; margin-left: -120px;">
+    <div style="margin-left:100px;">
+        <br /><br /><br />
+
+        @{
+            ViewBag.Title = "Index";
+        }
+
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/MyStyle.css" rel="stylesheet" />
+
+        <h2>Index</h2>
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TraineeName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mobile)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CourseName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Schedule)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TraineeName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mobile)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CourseName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Schedule)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.TraineesCourseInformationVMID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.TraineesCourseInformationVMID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.TraineesCourseInformationVMID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+
+</div>

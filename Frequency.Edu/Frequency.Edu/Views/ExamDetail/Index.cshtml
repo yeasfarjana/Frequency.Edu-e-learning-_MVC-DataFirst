@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Frequency.Edu.Models.ExamDetail>
+
+<div style="background-image: url('../../Content/Images/bk8.jpg'); height: 600px; background-size: cover; margin-top: -20px; width: 120%; margin-left: -120px;">
+    <div style="margin-left:100px;">
+        <br /><br /><br />
+
+        @{
+            ViewBag.Title = "Index";
+        }
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/MyStyle.css" rel="stylesheet" />
+
+        <h2>Index</h2>
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ExamName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ExamDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ExternalMarks)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EvidenceMarks)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ExamName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ExamDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ExternalMarks)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EvidenceMarks)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ExamDetailID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.ExamDetailID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ExamDetailID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+
+</div>

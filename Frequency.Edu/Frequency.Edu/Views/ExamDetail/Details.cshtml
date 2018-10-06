@@ -1,0 +1,50 @@
+﻿@model Frequency.Edu.Models.ExamDetail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ExamDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExternalMarks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExternalMarks)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EvidenceMarks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EvidenceMarks)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ExamDetailID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

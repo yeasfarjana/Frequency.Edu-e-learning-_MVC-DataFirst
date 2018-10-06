@@ -1,0 +1,600 @@
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\ApplicationInsights.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\csc.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\vbc.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.pdb
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\EntityFramework.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\WebGrease.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.pdb
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\EntityFramework.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\ApplicationInsights.config
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\csc.exe
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\vbc.exe
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll.config
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\EntityFramework.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Owin.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\WebGrease.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.pdb
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\EntityFramework.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\PagedList.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.dll
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\PagedList.xml
+F:\R33 MVC ALL\MVC Practise\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\PagedList.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\PagedList.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.csprojResolveAssemblyReference.cache
+D:\Frequency.Edu2\Frequency.Edu\bin\ApplicationInsights.config
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\csc.exe
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\vbc.exe
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+D:\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+D:\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll.config
+D:\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.pdb
+D:\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Owin.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\PagedList.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\WebGrease.dll
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\PagedList.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.pdb
+D:\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.csprojResolveAssemblyReference.cache
+D:\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+D:\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\ApplicationInsights.config
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\csc.exe
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\vbc.exe
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll.config
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Owin.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\PagedList.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\WebGrease.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\PagedList.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.pdb
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+F:\R33 MVC ALL\MVC Practise\PROJECT\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.csprojResolveAssemblyReference.cache
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\ApplicationInsights.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\csc.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\vbc.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll.config
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.pdb
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Owin.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\PagedList.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\WebGrease.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\PagedList.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.pdb
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+F:\IDB ALL\MVC_5 ALL\My_Project\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\ApplicationInsights.config
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\csc.exe
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\vbc.exe
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll.config
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Frequency.Edu.pdb
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Owin.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\PagedList.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\WebGrease.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.Web.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\PagedList.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\PagedList.Mvc.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Helpers.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Mvc.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Optimization.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.Razor.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Antlr3.Runtime.pdb
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Newtonsoft.Json.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.csprojResolveAssemblyReference.cache
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+C:\Users\Farjana Yeasmin\Desktop\ID_1225104\Frequency.Edu2\Frequency.Edu\obj\Debug\Frequency.Edu.pdb
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\ApplicationInsights.config
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\csc.exe
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Collections.Immutable.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\System.Reflection.Metadata.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\vbc.exe
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\roslyn\VBCSCompiler.exe.config
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll.config
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Frequency.Edu.pdb
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\EntityFramework.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Web.Infrastructure.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Owin.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\PagedList.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\WebGrease.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.DependencyCollector.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.Web.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AI.WindowsServer.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.ApplicationInsights.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\PagedList.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\PagedList.Mvc.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Helpers.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Mvc.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Optimization.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.Razor.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Deployment.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\System.Web.WebPages.Razor.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Antlr3.Runtime.pdb
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Newtonsoft.Json.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\EntityFramework.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\EntityFramework.SqlServer.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Google.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.csprojResolveAssemblyReference.cache
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.dll
+F:\Farjana\Most Important\My All Project\Frequency.Edu(e-learning)_MVC DataFirst\Frequency.Edu\Frequency.Edu\obj\Debug\Frequency.Edu.pdb

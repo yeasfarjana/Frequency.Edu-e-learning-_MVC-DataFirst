@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FrequencyEduDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseID" />
+    </Key>
+    <Property Name="CourseID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CourseFees" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Schedule" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CourseDuration" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TrainerID" Type="Int32" />
+    <Property Name="ExamDetailID" Type="Int32" />
+    <NavigationProperty Name="ExamDetail" Relationship="Self.FK__Course__ExamDeta__5441852A" FromRole="Course" ToRole="ExamDetails" />
+    <NavigationProperty Name="Trainer" Relationship="Self.FK__Course__TrainerI__534D60F1" FromRole="Course" ToRole="Trainers" />
+    <NavigationProperty Name="Trainees" Relationship="Self.FK__Trainees__Course__571DF1D5" FromRole="Course" ToRole="Trainees" />
+  </EntityType>
+  <EntityType Name="ExamDetail">
+    <Key>
+      <PropertyRef Name="ExamDetailID" />
+    </Key>
+    <Property Name="ExamDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ExamName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ExamDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ExternalMarks" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="EvidenceMarks" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Courses" Relationship="Self.FK__Course__ExamDeta__5441852A" FromRole="ExamDetails" ToRole="Course" />
+  </EntityType>
+  <EntityType Name="Trainee">
+    <Key>
+      <PropertyRef Name="TraineeID" />
+    </Key>
+    <Property Name="TraineeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TraineeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mobile" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="80" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CourseID" Type="Int32" />
+    <NavigationProperty Name="Course" Relationship="Self.FK__Trainees__Course__571DF1D5" FromRole="Trainees" ToRole="Course" />
+  </EntityType>
+  <EntityType Name="Trainer">
+    <Key>
+      <PropertyRef Name="TrainerID" />
+    </Key>
+    <Property Name="TrainerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TrainerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mobile" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Courses" Relationship="Self.FK__Course__TrainerI__534D60F1" FromRole="Trainers" ToRole="Course" />
+  </EntityType>
+  <Association Name="FK__Course__ExamDeta__5441852A">
+    <End Role="ExamDetails" Type="Self.ExamDetail" Multiplicity="0..1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExamDetails">
+        <PropertyRef Name="ExamDetailID" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="ExamDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Course__TrainerI__534D60F1">
+    <End Role="Trainers" Type="Self.Trainer" Multiplicity="0..1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Trainers">
+        <PropertyRef Name="TrainerID" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="TrainerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Trainees__Course__571DF1D5">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="Trainees" Type="Self.Trainee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseID" />
+      </Principal>
+      <Dependent Role="Trainees">
+        <PropertyRef Name="CourseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FrequencyEduDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Courses" EntityType="Self.Course" />
+    <EntitySet Name="ExamDetails" EntityType="Self.ExamDetail" />
+    <EntitySet Name="Trainees" EntityType="Self.Trainee" />
+    <EntitySet Name="Trainers" EntityType="Self.Trainer" />
+    <AssociationSet Name="FK__Course__ExamDeta__5441852A" Association="Self.FK__Course__ExamDeta__5441852A">
+      <End Role="ExamDetails" EntitySet="ExamDetails" />
+      <End Role="Course" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Course__TrainerI__534D60F1" Association="Self.FK__Course__TrainerI__534D60F1">
+      <End Role="Trainers" EntitySet="Trainers" />
+      <End Role="Course" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Trainees__Course__571DF1D5" Association="Self.FK__Trainees__Course__571DF1D5">
+      <End Role="Course" EntitySet="Courses" />
+      <End Role="Trainees" EntitySet="Trainees" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
